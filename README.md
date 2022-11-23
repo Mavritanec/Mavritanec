@@ -29,6 +29,7 @@
 <a href="https://code.visualstudio.com/">
   <img src="./icons/icon_visualcode.png" alt="VisualCode" height="50"/>
 </a>
+
 ---
 
 ### Contacts
