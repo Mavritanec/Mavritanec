@@ -33,5 +33,5 @@
 ---
 
 ### Contacts
-- Languages: 🇷🇺 Russian (native), 🇺🇸 English (C1)
-- TG: @Valvelian
+- Languages: 🇷🇺 Russian (native), 🇺🇸 English (A2)
+- TG: @S_A_Ilya
